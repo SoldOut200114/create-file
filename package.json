@@ -1,0 +1,22 @@
+{
+  "name": "create-file-py",
+  "version": "1.0.1",
+  "main": "create-file-py.js",
+  "license": "MIT",
+  "bin": {
+    "create-file-py": "create-file-py.js",
+    "create-file": "create-file-py.js"
+  },
+  "repository": "https://github.com/SoldOut200114/create-file",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.1.0",
+    "http-server": "^14.1.1"
+  },
+  "description": "create-file-py 包主要是用来创建文件，删除文件，以及在在对应的目录下启动服务器。",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soldout"
+}
